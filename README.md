@@ -1,0 +1,1 @@
+## This desktop GUI applicaton uses MYSQL as a database server
