@@ -6,7 +6,7 @@ from PyQt6.QtGui import QAction, QIcon
 import sys
 import sqlite3
 import mysql.connector
-
+#saf
 
 class DatabaseConnection:
     def __init__(self, host="localhost", user="root", password="QAZPLM123", database="school"):
